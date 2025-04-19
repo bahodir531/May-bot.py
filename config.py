@@ -1,0 +1,3 @@
+API_ID = 12345678  # Sizning Telegram API ID
+API_HASH = "abcd1234efgh5678ijkl9012mnop3456"
+BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
